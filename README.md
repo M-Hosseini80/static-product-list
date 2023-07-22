@@ -2,4 +2,4 @@
 
 ## screenshot
 
-!()[https://github.com/M-Hosseini80/static-product-list/blob/main/screenshot.jpeg]
+![](https://github.com/M-Hosseini80/static-product-list/blob/main/screenshot.jpeg)
